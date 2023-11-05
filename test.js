@@ -1,2 +1,2 @@
-let funny = 'funni'
-console.log(funny)
+let funni = 'funny'
+console.log(funni) 
